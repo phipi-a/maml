@@ -56,13 +56,13 @@ options:
                         output_dir: /path/to/output/dir
 ```
 
-# Latex helper
+# Latex helper (removed)
 
 ## create_plots/plot_data.ipynb
 jupyther notebook to create latex plots
 ## create_plots/creat_figure.ipynb
 jupyther notebook to create latex figures included ref to plots
-# Latex Directionary of Latex files and compiled pdf:
+# Latex Directionary of Latex files and compiled pdf: (removed)
 - latex
 - latex/out/philipp_ba.pdf
 # reproduce models and output of bachelorthesis:
